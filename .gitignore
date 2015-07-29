@@ -1,0 +1,11 @@
+# sample data
+/volumetric_data
+
+# Compiled MATLAB
+*.mex*
+
+# Saved models
+*.mat
+
+# log files
+*.log*
